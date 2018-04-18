@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="player_turn">Player\'s turn</string>
+    <string name="computer_turn">Computer\'s turn</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="_3_x_3">3 x 3</string>
+    <string name="_4_x_4">4 x 4</string>
+    <string name="_5_x_5">5 x 5</string>
+    <string name="vs_computer">vs Computer</string>
+    <string name="vs_human">vs Human</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="random">Random</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="start">Start</string>
+    <string name="restart_image">Restart image</string>
+    <string name="logo">Logo</string>
+    <string name="reset">reset</string>
+    <string name="mute">mute</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="tie">Tie</string>
+    <string name="_0">0</string>
+    <string name="clear_image">clear image</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+
+    <string name="developed">Developed by: Yomdroid</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
